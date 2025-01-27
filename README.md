@@ -6,4 +6,8 @@
     <p>
         <img src="https://i.pinimg.com/originals/3d/a9/a5/3da9a53ad9dedebe3ba316a6703b8d83.gif" alt="Snow" />
     </p>
+    <align="center">
+    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+
+
 </div>
