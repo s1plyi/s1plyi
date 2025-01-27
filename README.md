@@ -9,5 +9,5 @@
 </p>
 
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-</a> <a href="" target="_blank" rel="noreferrer"> <img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/490px-1C_Company_logo.svg.png" alt="1c-enterprice" width="40" height="40"/> </a></p>
+<img alt="Файл:1C Company logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/490px-1C_Company_logo.svg.png" decoding="async" width="490" height="239" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/735px-1C_Company_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/1C_Company_logo.svg/980px-1C_Company_logo.svg.png 2x" data-file-width="490" data-file-height="239">
 </div>
