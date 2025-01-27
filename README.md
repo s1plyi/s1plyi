@@ -6,8 +6,13 @@
     <p>
         <img src="https://i.pinimg.com/originals/3d/a9/a5/3da9a53ad9dedebe3ba316a6703b8d83.gif" alt="Snow" />
     </p>
-    <align="center">
-    <img src="https://raw.githubusercontent.com/s1plyi/s1plyi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 </div>
