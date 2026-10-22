@@ -18,7 +18,7 @@
       <td align="left">
         <pre style="background: #0d1117; color: #d0ffff; padding: 15px; border-radius: 8px; border: 1px solid #30363d; font-family: 'Jetbrains Mono', monospace; font-size: 14px; text-align: left;">
 <span style="color: #50fa7b;">➜</span> <span style="color: #bd93f9;">~</span> whoami
-  <span style="color: #f8f8f2;">S1PLYI</span> | Backend Developer & Code Enthusiast
+  <span style="color: #f8f8f2;">Alexander</span> | Backend Developer & Code Enthusiast
 
 <span style="color: #50fa7b;">➜</span> <span style="color: #bd93f9;">~</span> cat interests.txt
   ☕ Java & Spring Ecosystem
