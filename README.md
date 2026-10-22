@@ -1,7 +1,6 @@
 <div align="center">
   <!-- 1. Анимированный заголовок -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=35&duration=3000&color=d0ffff&center=true&vCenter=true&width=500&lines=Hey..+I'm+S1PLYI;Welcome+to+my+digital+space;Let's+build+something+epic." alt="Typing SVG" />
-  
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&color=d0ffff&center=true&vCenter=true&width=600&lines=Hey..+I'm+S1PLYI;Welcome+to+my+digital+space;Let's+build+something+epic." alt="Typing SVG" />  
   <br/>
   
   <!-- 2. Стильный разделитель (тонкая неоновая линия) -->
