@@ -57,20 +57,6 @@
   <br/>
 
   <!-- 6. Контакты -->
-  <h3 style="color: #d0ffff; font-family: 'Jetbrains Mono', monospace;">🔗 Connect with me</h3>
-  <p>
-    <a href="mailto:your.email@example.com" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg" alt="Email" width="40" title="Email" />
-    </a>
-    <a href="https://t.me/your_telegram" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/telegram/telegram-original.svg" alt="Telegram" width="40" title="Telegram" />
-    </a>
-    <a href="https://linkedin.com/in/your_linkedin" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" title="LinkedIn" />
-    </a>
-  </p>
-
-  <br/>
   
   <!-- 7. Нижний разделитель и футер -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer&width=100%&fontSize=0" alt="divider" />
