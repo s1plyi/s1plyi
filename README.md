@@ -62,7 +62,4 @@
   <p style="color: #8b949e; font-family: 'Jetbrains Mono', monospace; font-size: 12px;">
     Crafted with ☕ and 💻 by S1PLYI
   </p>
-<h3 style="color: #d0ffff; font-family: 'JetBrains Mono', monospace;">📈 Activity Graph</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=S1PLYI&theme=react&bg_color=0d1117&color=d0ffff&line=d0ffff&point=50fa7b&area=true&hide_border=true" alt="Activity Graph" />
-
 </div>
