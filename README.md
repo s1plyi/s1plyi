@@ -68,7 +68,7 @@
   </summary>
   <br/>
   <p align="center">
-    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenriW/giphy.gif" width="200" />
+    <img src="https://giphy.com/embed/JF1bGLHo6nY6t8LuFe" width="200" />
   </p>
   <p align="center" style="color: #d0ffff; font-family: 'JetBrains Mono', monospace;">
     "The best code is no code at all." — Jeff Atwood
