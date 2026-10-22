@@ -62,16 +62,7 @@
   <p style="color: #8b949e; font-family: 'Jetbrains Mono', monospace; font-size: 12px;">
     Crafted with ☕ and 💻 by S1PLYI
   </p>
-  <details>
-  <summary style="color: #d0ffff; font-family: 'JetBrains Mono', monospace; cursor: pointer; font-size: 16px; text-align: center;">
-    🎁 Click to reveal a secret
-  </summary>
-  <br/>
-  <p align="center">
-    <img src="https://giphy.com/embed/JF1bGLHo6nY6t8LuFe" width="200" />
-  </p>
-  <p align="center" style="color: #d0ffff; font-family: 'JetBrains Mono', monospace;">
-    "The best code is no code at all." — Jeff Atwood
-  </p>
-</details>
+<h3 style="color: #d0ffff; font-family: 'JetBrains Mono', monospace;">📈 Activity Graph</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=S1PLYI&theme=react&bg_color=0d1117&color=d0ffff&line=d0ffff&point=50fa7b&area=true&hide_border=true" alt="Activity Graph" />
+
 </div>
