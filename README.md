@@ -62,4 +62,16 @@
   <p style="color: #8b949e; font-family: 'Jetbrains Mono', monospace; font-size: 12px;">
     Crafted with ☕ and 💻 by S1PLYI
   </p>
+  <details>
+  <summary style="color: #d0ffff; font-family: 'JetBrains Mono', monospace; cursor: pointer; font-size: 16px; text-align: center;">
+    🎁 Click to reveal a secret
+  </summary>
+  <br/>
+  <p align="center">
+    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenriW/giphy.gif" width="200" />
+  </p>
+  <p align="center" style="color: #d0ffff; font-family: 'JetBrains Mono', monospace;">
+    "The best code is no code at all." — Jeff Atwood
+  </p>
+</details>
 </div>
